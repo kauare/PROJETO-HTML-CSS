@@ -22,6 +22,11 @@ a  {
     padding: 9px 20px;
 }
 img {
+    margin: 100px;
+    padding: 50px;
     width: 350px;
     float: inline-end;
+}
+.tituloblog {
+    color: red;
 }
